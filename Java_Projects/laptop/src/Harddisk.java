@@ -1,5 +1,3 @@
-package laptop;
-
 public class Harddisk {
     private int size;
     private String type;

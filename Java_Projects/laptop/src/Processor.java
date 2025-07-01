@@ -1,5 +1,3 @@
-package laptop;
-
 public class Processor {
     private String gen;
     private int ghz;

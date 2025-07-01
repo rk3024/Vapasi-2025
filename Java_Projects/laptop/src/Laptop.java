@@ -1,5 +1,3 @@
-package laptop;
-
 public class Laptop {
     Processor processor;
     Ram ram;

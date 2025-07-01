@@ -1,5 +1,3 @@
-package laptop;
-
 public class LaptopStoreMain {
     public static void main(String[] args) {
         Laptop laptopOne = new Laptop();

@@ -1,5 +1,3 @@
-package exceptionHandling;
-
 /**
  * Calculator class that returns the double value of the integer value
  */

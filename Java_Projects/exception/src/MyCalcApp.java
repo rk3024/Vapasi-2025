@@ -1,5 +1,3 @@
-package exceptionHandling;
-
 /**
  * This class accepts a number from the user and passes that to calDouble() method
  */

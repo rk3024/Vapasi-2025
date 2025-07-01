@@ -1,5 +1,3 @@
-package laptop;
-
 public class Ram {
     private int ramsize;
     private String type;
